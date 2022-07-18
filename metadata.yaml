@@ -1,11 +1,16 @@
 _repo: Old-Bear-Paw-The-Trapper-King-The-Love-of-a-Blackfoot-Queen_68513
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68513-h/images/cover.jpg
 creator:
   author:
     agent_name: Martine, Max
     gutenberg_agent_id: '54808'
     url: http://www.gutenberg.org/2009/agents/54808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68513#Old-Bear-Paw-The-Trapper-King-The-Love-of-a-Blackfoot-Queen
 gutenberg_issued: '2022-07-12'
 identifiers:
   gutenberg: '68513'
